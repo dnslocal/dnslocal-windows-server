@@ -1,5 +1,5 @@
 # dnslocal-windows-server
-Build public DNS server to avoid DNS poisoning.
+Build public DNS server on Windows Server to avoid DNS poisoning.
 
 
 ![](http://i.imgur.com/B9Bsvsy.png)
