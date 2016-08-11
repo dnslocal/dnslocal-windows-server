@@ -24,7 +24,7 @@ You can always get the latest release here: https://github.com/dnslocal/dnslocal
 
 ## Requirement
 
-* Windows 2008 or later required
+* Windows Server 2008 or later required
 * .NET Framework 4.5+ (not compatible with old version of Windows)
 
 ## Usage
