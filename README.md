@@ -6,8 +6,6 @@ Build public DNS server on Windows Server to avoid DNS poisoning.
 
 ## Features
 
-* HSTS system proxy supported.
-* Major browsers supported.
 * Secure https update access.
 * Automatically DNS rule update.
 * Service auto start on reboot.
