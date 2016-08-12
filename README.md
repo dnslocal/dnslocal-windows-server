@@ -16,11 +16,11 @@ Build public DNS server on Windows Server to avoid DNS poisoning.
 
 If you want to know all supported domains, Please refer to https://github.com/dnslocal/dnslocal-list
 
-## Demo DNS Server
+## Demo
 
 * DNS: 123.206.16.184
 * Replace http with https before access blocked sites 
-* For HSTS support, please refer to implementation of dnslocal, such as dnslocal-windows
+* For HSTS support, please refer to implementation of dnslocal, such as [dnslocal-windows](https://github.com/dnslocal/dnslocal-windows)
 
 ```console
 $ nslookup google.com 123.206.16.184
